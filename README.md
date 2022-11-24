@@ -1,4 +1,4 @@
-### Hi there!
+### Hey!
 I'm Jorge, a 3rd year Comp Sci student at the University of Sheffield.\
 Please take some time to have a look at some of my projects! 
 
