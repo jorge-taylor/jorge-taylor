@@ -1,6 +1,6 @@
 ### Hi there!
 I'm Jorge, a 3rd year Comp Sci student at the University of Sheffield.\
-Please take some time to have a look at some of my projects below which I've completed in my own time, or through university.
+Please take some time to have a look at some of my projects! 
 
 <!--
 **jorge-taylor/jorge-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
